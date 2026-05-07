@@ -1,0 +1,4 @@
+if SHIELD_LILYKEY_RIGHT
+config ZMK_KEYBOARD_NAME
+    default "LilyKey Right"
+endif

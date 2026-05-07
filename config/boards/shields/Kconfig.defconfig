@@ -1,9 +1,0 @@
-if SHIELD_LILYKEY_LEFT
-config ZMK_KEYBOARD_NAME
-    default "LilyKey Left"
-endif
-
-if SHIELD_LILYKEY_RIGHT
-config ZMK_KEYBOARD_NAME
-    default "LilyKey Right"
-endif

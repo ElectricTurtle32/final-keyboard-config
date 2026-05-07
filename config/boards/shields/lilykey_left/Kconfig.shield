@@ -1,0 +1,2 @@
+config SHIELD_LILYKEY_LEFT
+    def_bool $(shields_list_contains,lilykey_left)
