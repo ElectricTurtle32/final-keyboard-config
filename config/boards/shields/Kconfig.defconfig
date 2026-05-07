@@ -1,0 +1,9 @@
+if SHIELD_LILLYKEY_LEFT
+config ZMK_KEYBOARD_NAME
+    default "LillyKey Left"
+endif
+
+if SHIELD_LILLYKEY_RIGHT
+config ZMK_KEYBOARD_NAME
+    default "LillyKey Right"
+endif
